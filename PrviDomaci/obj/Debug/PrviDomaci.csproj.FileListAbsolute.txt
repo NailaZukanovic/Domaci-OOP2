@@ -1,0 +1,8 @@
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\obj\Debug\PrviDomaci.csproj.AssemblyReference.cache
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\obj\Debug\PrviDomaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\obj\Debug\PrviDomaci.csproj.CoreCompileInputs.cache
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\bin\Debug\PrviDomaci.exe.config
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\bin\Debug\PrviDomaci.exe
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\bin\Debug\PrviDomaci.pdb
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\obj\Debug\PrviDomaci.exe
+C:\Users\Naila\source\repos\VezbeOOP21\PrviDomaci\obj\Debug\PrviDomaci.pdb
